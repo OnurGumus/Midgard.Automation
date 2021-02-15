@@ -1,0 +1,8 @@
+source https://api.nuget.org/v3/index.json
+framework: auto-detect 
+storage: none
+
+nuget FSharp.Core
+nuget canopy
+nuget selenium.webdriver.chromedriver
+nuget TickSpec
